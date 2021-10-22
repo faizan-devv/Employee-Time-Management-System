@@ -1,2 +1,1 @@
-# FinalTest
 Time Management System
